@@ -1,0 +1,115 @@
+.menu{
+    background-color: rgb(26, 2, 37);
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+ .textMenu{
+    padding: 20px; /*это отступ*/
+    color: aliceblue;
+ }
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(52, 34, 69);
+}
+.number{
+    font-family: Jost;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: right;    
+}
+.zagolovok{
+    font-family: Jost;
+font-size: 70px;
+font-weight: 600;
+line-height: 112px;
+text-align: left;
+color: aliceblue;
+position: absolute;
+top: 100px;
+left: 50px;
+margin-left: 380px;
+margin-top: 245px;
+}
+.myText{
+    font-family: Jost;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+color: aliceblue;
+width: 478px;
+position: absolute;
+top: 200px;
+left: 150px;
+margin-left: 285px;
+margin-top: 240px;
+}
+
+.kartinka{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    margin-right: 400px;
+    margin-top: 200px;
+}
+button{
+margin-top: 460px;
+margin-left: 435px;
+background-color: #D52027;
+color: white;
+padding: 35px;
+border-radius: 3px;
+}
+.nameA{
+    background: #F9F9F9;
+    position: relative;
+    top: 210px;
+}
+.myNameA{
+padding-top: 100px;  
+padding-left: 50px; 
+}
+.container{
+    display: flex;
+}
+.block{
+    background-color: aliceblue;
+    margin: 20px;
+    border-radius: 10px;
+}
+.pod{
+    margin-left: 100px;
+}
+.textPod{
+    margin-left: 10px;
+}
+.fot1{
+    font-family: Jost;
+font-size: 30px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+color: #D52027;
+margin-right: 900px;
+margin-left: 100px;
+}
+.fot2{
+    font-family: Jost;
+font-size: 30px;
+font-weight: 600;
+line-height: 48px;
+text-align: right;
+margin-left: 50px;
+}
+footer{
+    margin-top: 200px;
+    height: 80px;
+    background-color: #fff;
+}
+
+
